@@ -4,7 +4,8 @@
   "description": "this is cypress api practice",
   "main": "index.js",
   "scripts": {
-    "test": "cypress test"
+    "test": "cypress test",
+    "cypress:open": "cypress open"
   },
   "author": "Naveen AutomationLabs",
   "license": "ISC",
